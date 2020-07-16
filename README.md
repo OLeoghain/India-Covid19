@@ -1,6 +1,10 @@
 # India-Covid19
 Data analytics and visualization on the coronavirus data sourced from COVID19-India
 
-Visualization for Delih COVID 19
+India Covid-19 growth curve
 
-![alt text](delhi_covid_rate.png)
+![alt text](plots/growth_curve.png)
+
+India Covid-19 prediction curve till Nov - 2020
+
+![alt text](plots/predictioncurve-11-2020.png)
