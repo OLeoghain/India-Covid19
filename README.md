@@ -3,7 +3,7 @@ Data analytics and visualization on the coronavirus data sourced from COVID19-In
 
 India Covid-19 growth curve
 
-![alt text](plots/growth-curve.png)
+![alt text](plots/growth_curve.png)
 
 India Covid-19 prediction curve till Nov - 2020
 
