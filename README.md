@@ -11,4 +11,4 @@ India Covid-19 prediction curve till Nov - 2020
 
 India case positivity rate for all states
 
-![alt text](plots/Dashboard1.png)
+![alt text](plots/Dashboard 1.png)
