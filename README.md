@@ -8,3 +8,7 @@ India Covid-19 growth curve
 India Covid-19 prediction curve till Nov - 2020
 
 ![alt text](plots/predictioncurve-11-2020.png)
+
+India case positivity rate for all states
+
+![alt text](plots/Dashboard1.png)
